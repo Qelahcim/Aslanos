@@ -1,4 +1,4 @@
-# aslanos
+# Aslanos
 OS for the esp32
 
 I mostly coded some programs in RUST and ASSEMBLY it was a very hard project due to some limitations:
